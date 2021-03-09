@@ -2,9 +2,11 @@ Sample Resolusi Branc Satu
 - Coba satu
   * Detail satu
   * Detail dua
+    ^ Tambah sub detail 2.1
+    ^ Tambah sub detail 2.2
 - Coba dua
   * Detail Satu
   * Detail Dua
-- Coba tiga
 - Coba empat
+  * Tambah sub coba 4.1
 - Coba nambah text lagi
