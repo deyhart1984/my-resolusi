@@ -10,3 +10,8 @@ Sample Resolusi Branc Satu
 - Coba empat
   * Tambah sub coba 4.1
 - Coba nambah text lagi
+  * Tambah sub text 1
+
+Konten baru
+- Text satu
+- Text dua
