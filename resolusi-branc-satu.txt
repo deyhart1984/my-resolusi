@@ -7,3 +7,4 @@ Sample Resolusi Branc Satu
   * Detail Dua
 - Coba tiga
 - Coba empat
+- Coba nambah text lagi
