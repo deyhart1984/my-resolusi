@@ -1,5 +1,9 @@
 Sample Resolusi Branc Satu
 - Coba satu
+  * Detail satu
+  * Detail dua
 - Coba dua
+  * Detail Satu
+  * Detail Dua
 - Coba tiga
 - Coba empat
